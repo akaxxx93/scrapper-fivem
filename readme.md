@@ -28,7 +28,7 @@ Ce script est conçu pour récupérer des informations sur les utilisateurs de F
 1. Exécutez le script principal `Start bump.bat Ou main.py`:
 
     ```bash
-    python main.py
+    python scrapper_by_aka.py
     ```
 
 2. Suivez les instructions pour démarrer le scraping et le stockage des données.
